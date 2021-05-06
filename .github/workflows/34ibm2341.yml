@@ -1,4 +1,4 @@
-name: IBM Cloud Foundry - xray diss
+name: IBM Cloud Foundry - xray
  
 env:
   IBM_CF_API: https://api.eu-gb.cf.cloud.ibm.com
